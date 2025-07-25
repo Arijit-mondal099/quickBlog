@@ -13,13 +13,13 @@ A modern, full-stack blog application that allows users to create, view, and man
 ## 🖼️ Screenshots
 
 **Home Page**  
-![Home](screenshots/home.png)
+![Home](https://github.com/Arijit-mondal099/quickBlog/blob/main/Frontend/public/screenshots/home.png)
 
 **Blog Page**  
-![Blog](screenshots/blog.png)
+![Blog](https://github.com/Arijit-mondal099/quickBlog/blob/main/Frontend/public/screenshots/blog.png)
 
 **Admin Page**  
-![Admin](screenshots/admin.png)
+![Admin](https://github.com/Arijit-mondal099/quickBlog/blob/main/Frontend/public/screenshots/admin.png)
 
 ---
 
