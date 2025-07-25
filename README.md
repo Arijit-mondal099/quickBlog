@@ -13,13 +13,13 @@ A modern, full-stack blog application that allows users to create, view, and man
 ## 🖼️ Screenshots
 
 **Home Page**  
-![Home](./frontend/public/home.png)
+![Home](./screenshots/home.png)
 
 **Blog Page**  
-![Blog](./frontend/public/blog.png)
+![Blog](./screenshots/blog.png)
 
 **Admin Page**  
-![Admin](./frontend/public/admin.png)
+![Admin](./screenshots/admin.png)
 
 ---
 
