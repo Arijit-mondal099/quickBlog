@@ -64,6 +64,20 @@ const BlogList = () => {
           .map((blog) => (
             <BlogCard key={blog._id} blog={blog} />
           ))}
+
+        {filterBlogs().length === 0 && (
+          <p className="text-4xl font-bold text-center col-span-full text-gray-300 my-28">
+            Oops No blogs found!
+          </p>
+        )}
+
+        {filterBlogs().filter((blog) =>
+          menu === "All" ? true : blog.category === menu
+        ).length === 0 && (
+          <p className="text-4xl font-bold text-center col-span-full text-gray-300 my-28">
+            Oops No blogs found!
+          </p>
+        )}
       </motion.div>
     </div>
   );
