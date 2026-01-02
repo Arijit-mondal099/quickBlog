@@ -15,7 +15,7 @@ app.use(
   cors({
     origin: [
       "http://localhost:5173",
-      "https://quick-blog-server-blush.vercel.app"
+      "https://quick-blog-nine-kappa.vercel.app"
     ],
     credentials: true,
   })
